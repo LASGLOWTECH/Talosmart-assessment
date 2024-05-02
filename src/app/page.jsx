@@ -17,7 +17,7 @@ export default function Home() {
       
 
         <h1 className='text-white text-3xl  md:text-7xl py-6 text-center  shadow-2xl px-3 shadow-Lemongreen font-extrabold'>We are coming soon</h1>
-        <p className='text-gray-300 pt-2 text-center text-base md:max-w-2xl pb-6 font-light'> Procure Grids is Africa's first construction cost control technology. We host a market place that connects construction material vendors/supplier to construction companies, real estate developers, government entitiesand independent private builders. 
+        <p className='text-gray-300 pt-2 text-center text-base md:max-w-2xl pb-6 font-light'> Procure Grids is Africa &apos s first construction cost control technology. We host a market place that connects construction material vendors/supplier to construction companies, real estate developers, government entitiesand independent private builders. 
 Welcome to our wait-list.
 We go live in 3 months. Get ready to witness something extraordinary! Our launch is just around the corner. Stay tuned for an experience like never before  </p>
        
