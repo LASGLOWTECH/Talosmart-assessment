@@ -2,9 +2,10 @@
 
 
     const nextConfig = {
-        eslint: {
-            ignoreDuringBuilds: true,
-        },}
+        reactStrictMode: true, 
+    eslint: { 
+      ignoreDuringBuilds: true, 
+    },}
 
 
 

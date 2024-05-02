@@ -1,5 +1,5 @@
 import './globals.css'
-// import Footer from './components/Footer'
+import Footer from './components/Footer'
 // import Navbar from './components/Navbar'
 import { Inter } from 'next/font/google'
 
@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
         
         
         {children}
-       
+       <Footer/>
         
         </body>
     </html>
